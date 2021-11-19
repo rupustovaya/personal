@@ -1,0 +1,49 @@
+h1 , h2{
+  font-size: 28px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #191970;
+  font-variant: small-caps;
+}
+body {
+  background-color:#AFEEEE;
+}
+ol {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 900;
+  line-height: 4;
+  font-variant: small-caps;
+}
+ul {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 900;
+  line-height:2;
+}
+hr {
+  border-style: none;
+  border-color:#4682B4;
+  border-top-style: dotted;
+  border-width: 7;
+}
+p {
+  font-family:Comic Sans MS, Comic Sans, cursive;
+}
+h3 {
+  font-family:Comic Sans MS, Comic Sans, cursive;
+}
+a {
+  font-family:Comic Sans MS, Comic Sans, cursive;
+  color:#191970;
+  text-decoration: none;
+}
+.bluetext {
+  color:#4B0082;
+}
+form {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+input {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+table {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
